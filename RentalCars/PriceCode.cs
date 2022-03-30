@@ -4,6 +4,7 @@
     {
         Regular,
         Premium,
-        Mini
+        Mini,
+        Luxury
     }
 }
